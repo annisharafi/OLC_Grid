@@ -1,6 +1,5 @@
 # Grid and Layout Bootstrap
 
-_____________________________________
 Mengatur dan menggunakan grid dan layout pada framework `Bootstrap`
 
 1. [Bootstrap v 4.3]
